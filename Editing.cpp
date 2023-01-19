@@ -4,14 +4,7 @@ char login();
 char Menu();
 char select();
 char BUY();
-char CryptoCurrency();
-char walletcode();
-char USD();
-char INR();
-char confirm();
-char success();
 char SELL();
-
 char login()
 {
     char userid[20],password[20];
